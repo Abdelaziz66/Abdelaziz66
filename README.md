@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Abdelaziz
-Software engineering | Flutter developer | UI
+Software Engineering | Flutter Developer | UI
 
 - 👀 I’m interested in mobile applications.
 - 💞️ Looking for opportunities as a software developer with an expert team of developers who will help
@@ -7,10 +7,10 @@ Software engineering | Flutter developer | UI
 - 📫 How to reach me: 3bdel3zizelsayed123@gmail.com
 
 ## 🔧 Technologies & Tools
-- flutter
-- dart
-- firebase
-- figma
+- Flutter
+- Dart
+- Firebase
+- Figma
 
 ## 📂 My Projects
 - [ezEat](https://github.com/Abdelaziz66/EzEat)
