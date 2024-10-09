@@ -4,7 +4,7 @@
 Software Engineering | Flutter Developer | UI
 ---------------------------------------------
 
-software engineer, Bachelor Computer Science passionate about Mobile Programming with 2- year experience in mobile development (Flutter). Looking for opportunities as a software developer with an expert team of developers who will help advance my career progression to senior positions in the future
+Software Engineer with a Bachelor's degree in Computer Science, passionate about mobile development. I have 2 years of experience specializing in Flutter and mobile programming. I am seeking opportunities as a Software Developer where I can collaborate with an expert team of developers to further enhance my skills and advance towards senior positions in the future.
 
 * 🌍  I'm based in Egypt
 * 🎗️  See my ezEat app at [Linkedin](http://www.linkedin.com/posts/abdelaziz-elsayed-aab278252_flutter-flutterdev-mobiledevelopment-activity-7240379832872660993-yXhm/?utm_source=share&utm_medium=member_desktop)
