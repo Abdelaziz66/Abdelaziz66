@@ -34,3 +34,9 @@ Software Engineering | Flutter Developer | UI
 <!--   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Abdelaziz66&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 </div>
 
+<div align=center>
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Abdelaziz66&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
+</div>
+
