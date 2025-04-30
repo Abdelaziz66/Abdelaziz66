@@ -5,11 +5,8 @@ Software Engineering | Flutter Developer | UI
 ---------------------------------------------
 
 * 🌍  I'm based in Egypt
-* 🧠  I'm currently learning UI & Rive
-* 🖥️  See my portfolio [here](https://abdelaziz66.netlify.app)
-* 🎗️  Graduation project [demo](https://www.linkedin.com/posts/abdelaziz-elsayed-aab278252_flutter-flutterdev-mobiledevelopment-activity-7254204822457864192-yTPD?utm_source=share&utm_medium=member_desktop)
-* 🎗️  See ezEat app [demo](http://www.linkedin.com/posts/abdelaziz-elsayed-aab278252_flutter-flutterdev-mobiledevelopment-activity-7240379832872660993-yXhm/?utm_source=share&utm_medium=member_desktop)
-* 🎗️  See earthHeaven app [demo](https://www.linkedin.com/posts/abdelaziz-elsayed-aab278252_flutter-flutterdev-mobiledevelopment-activity-7248357169065062400-WW3n?utm_source=share&utm_medium=member_desktop)
+* 🧠  I'm currently learning Rive
+* 🖥️  my portfolio [here](https://abdelaziz66.netlify.app)
 * ✉️  You can contact me at [3bdel3zizelsayed123@gmail.com](mailto:3bdel3zizelsayed123@gmail.com)
 <br>
 
